@@ -10,7 +10,7 @@ last_name: Liu
 superuser: false
 
 # Role/position
-role: Class of 2023
+role: Class of 2024
 
 # Organizations/Affiliations
 organizations:
