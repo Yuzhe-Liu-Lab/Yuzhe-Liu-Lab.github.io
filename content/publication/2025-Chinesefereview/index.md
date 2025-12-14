@@ -8,10 +8,10 @@ authors:
   - 周舟
   - 王丽珍
   - 樊瑜波
-date: ""
+date: "2025-10-05T00:00:00Z"
 doi: "10.11883/bzycj-2024-0393"
 
-publishDate: ""
+publishDate: "2025-10-05T00:00:00Z"
 
 publication_types: ["2"]
 
