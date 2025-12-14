@@ -9,8 +9,8 @@ sections:
     content:
       slides:
       - title: |
-          👋 Welcome to Yuzhe Lab
-        content: Take a look at what we are working on...👇
+          Welcome to Yuzhe Lab
+        content: Advancing brain biomechanics for injury mechanism, monitoring, and protection.
         align: center
         background:
           image:
@@ -19,12 +19,12 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Group at Beihang University
         content: 'Share your knowledge with the lab and explore exciting new topics together!'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: coders.jpg
             filters:
               brightness: 0.7
           position: center
@@ -38,7 +38,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: coders.jpg
             filters:
               brightness: 0.5
           position: center
