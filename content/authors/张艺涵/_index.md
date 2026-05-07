@@ -118,7 +118,7 @@ user_groups:
 
   <h3>联系方式</h3>
   <p>
-    <i class="fas fa-envelope"></i> <a href="mailto:zhangyihan@buaa.edu.cn">zhangyihan@buaa.edu.cn</a>
+    <i class="fas fa-envelope"></i> <a href="mailto:yihanzhang@buaa.edu.cn">yihanzhang@buaa.edu.cn</a>
   </p>
 
 </div>
