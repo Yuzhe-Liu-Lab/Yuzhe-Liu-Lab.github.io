@@ -10,8 +10,8 @@ last_name: Lv
 superuser: false
 
 # Role/position
-role: Class of 2024
-entry_year: 2024
+role: Class of 2023
+entry_year: 2023
 
 # Organizations/Affiliations
 organizations:
@@ -113,7 +113,7 @@ user_groups:
   <h3>教育经历</h3>
 
 <div>
-  <p><i class="fas fa-graduation-cap"></i> 学士，生物医学工程，2024至今<br>
+  <p><i class="fas fa-graduation-cap"></i> 学士，生物医学工程，2023至今<br>
   <span style="color:gray;">北京航空航天大学</span></p>
 </div>
 

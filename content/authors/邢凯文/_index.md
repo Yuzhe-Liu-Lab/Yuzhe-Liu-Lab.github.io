@@ -10,7 +10,8 @@ last_name: Xing
 superuser: false
 
 # Role/position
-role: B.S. Graduate, Class of 2025
+role: B.S. Graduate, Class of 2022
+entry_year: 2022
 
 # Organizations/Affiliations
 organizations:
@@ -108,7 +109,7 @@ user_groups:
   <h3>教育经历</h3>
 
 <div>
-  <p><i class="fas fa-graduation-cap"></i> 学士，生物医学工程，2021至2025<br>
+  <p><i class="fas fa-graduation-cap"></i> 学士，生物医学工程，2022至2025<br>
   <span style="color:gray;">北京航空航天大学</span></p>
   <p><i class="fas fa-graduation-cap"></i> 硕士研究生，创新科技驱动健康生活，2025至今<br>
   <span style="color:gray;">瑞典皇家理工学院</span></p>
@@ -139,7 +140,7 @@ user_groups:
 
 <h3>Education</h3>
 <div>
-  <p><i class="fas fa-graduation-cap"></i> BSc in Biomedical Engineering, 2021-2025<br>
+  <p><i class="fas fa-graduation-cap"></i> BSc in Biomedical Engineering, 2022-2025<br>
   <span style="color:gray;">Beihang University</span></p>
   <p><i class="fas fa-graduation-cap"></i> MSc in Innovative Technology for Healthy Living, 2025-Present<br>
   <span style="color:gray;">KTH Royal Institute of Technology</span></p>

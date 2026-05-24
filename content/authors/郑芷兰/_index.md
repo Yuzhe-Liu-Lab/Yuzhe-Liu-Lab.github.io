@@ -10,7 +10,8 @@ last_name: Zheng
 superuser: false
 
 # Role/position
-role: B.S. Graduate, Class of 2025
+role: B.S. Graduate, Class of 2022
+entry_year: 2022
 
 # Organizations/Affiliations
 organizations:
@@ -97,7 +98,7 @@ user_groups:
 <div id="cn" class="tabcontent" style="display:none;">
 
   <p>
-    郑芷兰，北京航空航天大学2021级本科生，曾就读于生物与医学工程学院生物力学与医学人工智能方向。本科期间，她在创伤性脑损伤研究课题组参与了包括啄木鸟碰撞姿态分析在内的相关科研工作。目前，她在瑞典皇家理工学院攻读数据驱动健康硕士学位，研究兴趣主要集中于关于神经系统疾病和脑功能机制的计算生物学建模，为数据驱动医疗的发展提供方法与路径。
+    郑芷兰，北京航空航天大学2022级本科生，曾就读于生物与医学工程学院生物力学与医学人工智能方向。本科期间，她在创伤性脑损伤研究课题组参与了包括啄木鸟碰撞姿态分析在内的相关科研工作。目前，她在瑞典皇家理工学院攻读数据驱动健康硕士学位，研究兴趣主要集中于关于神经系统疾病和脑功能机制的计算生物学建模，为数据驱动医疗的发展提供方法与路径。
   </p>
 
   <h3>兴趣</h3>
@@ -109,7 +110,7 @@ user_groups:
   <h3>教育经历</h3>
 
 <div>
-  <p><i class="fas fa-graduation-cap"></i> 学士，生物医学工程，2021至2025<br>
+  <p><i class="fas fa-graduation-cap"></i> 学士，生物医学工程，2022至2025<br>
   <span style="color:gray;">北京航空航天大学</span></p>
   <p><i class="fas fa-graduation-cap"></i> 硕士，数据驱动健康，2025至今<br>
   <span style="color:gray;">瑞典皇家理工学院</span></p>
@@ -138,7 +139,7 @@ user_groups:
   <h3>Education</h3>
 
 <div>
-  <p><i class="fas fa-graduation-cap"></i> BSc in Biomedical Engineering, 2021-2025<br>
+  <p><i class="fas fa-graduation-cap"></i> BSc in Biomedical Engineering, 2022-2025<br>
   <span style="color:gray;">Beihang University</span></p>
   <p><i class="fas fa-graduation-cap"></i> MSc in Data-Driven Health, 2025-Present<br>
   <span style="color:gray;">KTH Royal Institute of Technology</span></p>
