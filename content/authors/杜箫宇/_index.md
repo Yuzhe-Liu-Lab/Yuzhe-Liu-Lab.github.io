@@ -11,6 +11,7 @@ superuser: false
 
 # Role/position
 role: Class of 2023
+entry_year: 2023
 
 # Organizations/Affiliations
 organizations:

@@ -11,6 +11,7 @@ superuser: false
 
 # Role/position
 role: M.S. student, Class of 2025
+entry_year: 2025
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students | 研究生
+  - Master Students | 硕士生
 ---
 
 <style>

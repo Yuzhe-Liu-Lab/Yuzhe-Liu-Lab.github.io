@@ -13,12 +13,13 @@ sections:
       user_groups:
           - Principal Investigator | 课题组负责人
           - Researchers | 研究人员
-          - Grad Students | 研究生
+          - PhD Students | 博士生
+          - Master Students | 硕士生
           - Undergraduate Students | 本科生
           - Administration | 行政人员
-          - Visitors | 访问学者
+          - Visitors | 访问学生
           - Alumni | 毕业生
-      sort_by: Params.last_name
+      sort_by: Params.entry_year
       sort_ascending: true
     design:
       show_interests: false

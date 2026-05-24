@@ -2,3 +2,15 @@
   font-size: 25px;
   font-weight: 400; 
 } */
+
+#section-slider .carousel-item:nth-of-type(1) {
+  background-image: url('/media/coders.jpg') !important;
+}
+
+#section-slider .carousel-item:nth-of-type(2) {
+  background-image: url('/media/coder1.jpg') !important;
+}
+
+#section-slider .carousel-item:nth-of-type(3) {
+  background-image: url('/media/coder2.jpg') !important;
+}

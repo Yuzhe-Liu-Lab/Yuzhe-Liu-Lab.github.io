@@ -24,7 +24,7 @@ sections:
         align: left
         background:
           image:
-            filename: coders.jpg
+            filename: coder1.jpg
             filters:
               brightness: 0.7
           position: center
@@ -33,12 +33,12 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Meet the Team
-          url: ../People/
+          url: /people/
       - title: A lab dedicated to traumatic brain injury research
         align: right
         background:
           image:
-            filename: coders.jpg
+            filename: coder2.jpg
             filters:
               brightness: 0.5
           position: center

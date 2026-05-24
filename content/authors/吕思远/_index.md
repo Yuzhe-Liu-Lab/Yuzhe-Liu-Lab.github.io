@@ -11,6 +11,7 @@ superuser: false
 
 # Role/position
 role: Class of 2024
+entry_year: 2024
 
 # Organizations/Affiliations
 organizations:
