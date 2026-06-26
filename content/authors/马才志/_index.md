@@ -10,8 +10,8 @@ last_name: Ma
 superuser: false
 
 # Role/position
-role: PhD student, Class of 2024
-entry_year: 2024
+role: PhD student, Class of 2025
+entry_year: 2025
 
 # Organizations/Affiliations
 organizations:
@@ -57,7 +57,7 @@ user_groups:
 
 <div id="cn" class="tabcontent" style="display:none;">
   <p>
-    马才志为2024级博士研究生，联合培养单位为北京航空航天大学-康复大学。其研究方向聚焦于基于血管神经耦合机制的运动和感觉功能障碍康复，以及脊髓损伤相关模型与太赫兹超材料传感技术。
+    马才志为2025级博士研究生，联合培养单位为北京航空航天大学-康复大学。其研究方向聚焦于基于血管神经耦合机制的运动和感觉功能障碍康复，以及脊髓损伤相关模型与太赫兹超材料传感技术。
   </p>
 
   <h3>联合培养导师</h3>
@@ -66,14 +66,14 @@ user_groups:
   <h3>教育经历</h3>
 
   <div>
-    <p><i class="fas fa-graduation-cap"></i> 博士，生物医学工程，2024至今<br>
+    <p><i class="fas fa-graduation-cap"></i> 博士，生物医学工程，2025至今<br>
     <span style="color:gray;">北京航空航天大学</span></p>
   </div>
 </div>
 
 <div id="en" class="tabcontent" style="display:block;">
   <p>
-    Caizhi Ma is a Ph.D. candidate in the Class of 2024 and is jointly trained by Beihang University and the University of Health and Rehabilitation Sciences. His research focuses on rehabilitation of motor and sensory dysfunction based on neurovascular coupling mechanisms, as well as spinal cord injury models and terahertz metamaterial sensing technologies.
+    Caizhi Ma is a Ph.D. candidate in the Class of 2025 and is jointly trained by Beihang University and the University of Health and Rehabilitation Sciences. His research focuses on rehabilitation of motor and sensory dysfunction based on neurovascular coupling mechanisms, as well as spinal cord injury models and terahertz metamaterial sensing technologies.
   </p>
 
   <h3>Joint Training Supervisors</h3>
@@ -82,7 +82,7 @@ user_groups:
   <h3>Education</h3>
 
   <div>
-    <p><i class="fas fa-graduation-cap"></i> Ph.D. in Biomedical Engineering, 2024-Present<br>
+    <p><i class="fas fa-graduation-cap"></i> Ph.D. in Biomedical Engineering, 2025-Present<br>
     <span style="color:gray;">Beihang University</span></p>
   </div>
 </div>
