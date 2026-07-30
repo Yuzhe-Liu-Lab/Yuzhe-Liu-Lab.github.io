@@ -10,8 +10,8 @@ last_name: Chen
 superuser: false
 
 # Role/position
-role: B.S. Graduate, Class of 2023
-entry_year: 2023
+role: B.S. Graduate, Class of 2019
+entry_year: 2019
 
 # Organizations/Affiliations
 organizations:
@@ -57,7 +57,7 @@ user_groups:
 
 <div id="cn" class="tabcontent" style="display:none;">
   <p>
-    陈永霖曾于2023年作为本科生在本课题组开展科研工作，现为清华大学生物医学工程专业硕士研究生。他的研究方向包括减震器动态力学特性、医学影像后处理算法开发，以及磁共振脉冲序列的优化设计。
+    陈永霖为2019级本科生，于2023年毕业。他曾在本课题组开展科研工作，现为清华大学生物医学工程专业硕士研究生。他的研究方向包括减震器动态力学特性、医学影像后处理算法开发，以及磁共振脉冲序列的优化设计。
   </p>
 
   <h3>兴趣</h3>
@@ -69,7 +69,7 @@ user_groups:
   <h3>教育经历</h3>
 
   <div>
-    <p><i class="fas fa-graduation-cap"></i> 学士，生物医学工程，2020至2024<br>
+    <p><i class="fas fa-graduation-cap"></i> 学士，生物医学工程，2019至2023<br>
     <span style="color:gray;">北京航空航天大学</span></p>
     <p><i class="fas fa-graduation-cap"></i> 硕士，生物医学工程，2024至今<br>
     <span style="color:gray;">清华大学</span></p>
@@ -83,7 +83,7 @@ user_groups:
 
 <div id="en" class="tabcontent" style="display:block;">
   <p>
-    Yonglin Chen conducted undergraduate research in the lab in 2023 and is currently a master's student in Biomedical Engineering at Tsinghua University. His research focuses on the dynamic mechanical characterization of shock absorbers, the development of medical image post-processing algorithms, and the optimization of MRI pulse sequences.
+    Yonglin Chen entered the undergraduate program in 2019 and graduated in 2023. He conducted undergraduate research in the lab and is currently a master's student in Biomedical Engineering at Tsinghua University. His research focuses on the dynamic mechanical characterization of shock absorbers, the development of medical image post-processing algorithms, and the optimization of MRI pulse sequences.
   </p>
 
   <h3>Interests</h3>
@@ -95,7 +95,7 @@ user_groups:
   <h3>Education</h3>
 
   <div>
-    <p><i class="fas fa-graduation-cap"></i> BSc in Biomedical Engineering, 2020-2024<br>
+    <p><i class="fas fa-graduation-cap"></i> BSc in Biomedical Engineering, 2019-2023<br>
     <span style="color:gray;">Beihang University</span></p>
     <p><i class="fas fa-graduation-cap"></i> MSc in Biomedical Engineering, 2024-Present<br>
     <span style="color:gray;">Tsinghua University</span></p>
