@@ -23,7 +23,7 @@ email: ''
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Undergraduate Students | 本科生
+  - Alumni | 毕业生
 ---
 
 <style>
