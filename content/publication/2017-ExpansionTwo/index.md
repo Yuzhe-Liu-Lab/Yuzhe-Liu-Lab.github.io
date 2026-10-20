@@ -1,7 +1,7 @@
 ---
 title: "An improved two-arcs deformational theoretical model of the expansion tubes"
 authors:
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - XinMing Qiu
   - Wei Wang
   - T. X. Yu

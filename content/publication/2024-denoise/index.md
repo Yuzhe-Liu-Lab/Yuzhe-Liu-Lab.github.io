@@ -2,7 +2,7 @@
 title: "AI-Based Denoising of Head Impact Kinematics Measurements With Convolutional Neural Network for Traumatic Brain Injury Prediction"
 authors:
   - Xianghao Zhan
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - Nicholas J. Cecchi
   - Ashlyn A. Callan
   - Enora Le Flao

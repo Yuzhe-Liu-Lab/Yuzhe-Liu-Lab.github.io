@@ -2,7 +2,7 @@
 title: "Brain Deformation Estimation With Transfer Learning for Head Impact Datasets Across Impact Types"
 authors:
   - Xianghao Zhan
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - Nicholas J. Cecchi
   - Olivier Gevaert
   - Michael M. Zeineh

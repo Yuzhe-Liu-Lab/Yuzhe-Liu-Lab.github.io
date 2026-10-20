@@ -2,7 +2,7 @@
 title: "Finding the Spatial Co-Variation of Brain Deformation With Principal Component Analysis"
 authors:
   - Xianghao Zhan
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - Nicholas J. Cecchi
   - Olivier Gevaert
   - Michael M. Zeineh

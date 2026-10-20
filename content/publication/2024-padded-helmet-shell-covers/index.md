@@ -4,7 +4,7 @@ authors:
   - "Nicholas J. Cecchi"
   - "Ashlyn A. Callan"
   - "Landon P. Watson"
-  - "Yuzhe Liu(刘雨喆)"
+  - 刘雨喆
   - "Xianghao Zhan"
   - "Ramanand V. Vegesna"
   - "Collin Pang"

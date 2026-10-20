@@ -1,14 +1,14 @@
 ---
 title: "Quantifying Morphology-Related Deviations in Brain Strain Using an Automated Mesh Morphing Method"
 authors:
-  - Yihan Zhang(张艺涵)
-  - Yang Wang(王阳)
-  - Xiaoyu Du(杜箫宇)
-  - Jingyi Wu(吴静伊)
+  - 张艺涵
+  - 王阳
+  - 杜箫宇
+  - 吴静伊
   - Zhou Zhou
   - Xianghao Zhan
   - Li Wang
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
 date: "2026-05-22T00:00:00Z"
 doi: "10.1007/s10439-026-04174-x"
 links:

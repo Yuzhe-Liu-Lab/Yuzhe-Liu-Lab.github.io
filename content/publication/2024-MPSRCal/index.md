@@ -3,7 +3,7 @@ title: "Differences between two maximal principal strain rate calculation scheme
 authors:
   - Xianghao Zhan
   - Zhou Zhou
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - Nicholas J. Cecchi
   - Marzieh Hajiahamemar
   - Michael M. Zeineh

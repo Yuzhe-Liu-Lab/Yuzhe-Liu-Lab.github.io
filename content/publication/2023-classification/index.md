@@ -3,7 +3,7 @@ title: "Machine-learning-based head impact subtyping based on the spectral densi
 authors:
   - Xianghao Zhan
   - Yiheng Li
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - Nicholas J. Cecchi
   - Samuel J. Raymond
   - Zhou Zhou

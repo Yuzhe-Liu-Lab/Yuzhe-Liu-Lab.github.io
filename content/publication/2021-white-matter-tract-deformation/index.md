@@ -3,7 +3,7 @@ title: "Toward a Comprehensive Delineation of White Matter Tract-Related Deforma
 authors:
   - "Zhou Zhou"
   - "Xiaogai Li"
-  - "Yuzhe Liu(刘雨喆)"
+  - 刘雨喆
   - "Madelen Fahlstedt"
   - "Marios Georgiadis"
   - "Xianghao Zhan"

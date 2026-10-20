@@ -1,7 +1,7 @@
 ---
 title: "A theoretical study of the expansion metal tubes"
 authors:
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - XinMing Qiu
 date: "2016-05-17T00:00:00Z"
 doi: "10.1016/j.ijmecsci.2016.05.014"

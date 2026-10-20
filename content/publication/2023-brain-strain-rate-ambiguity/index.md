@@ -3,7 +3,7 @@ title: "Brain strain rate response: Addressing computational ambiguity and exper
 authors:
   - "Zhou Zhou"
   - "Xiaogai Li"
-  - "Yuzhe Liu(刘雨喆)"
+  - 刘雨喆
   - "Warren N. Hardy"
   - "Svein Kleiven"
 date: "2023-01-01T00:00:00Z"

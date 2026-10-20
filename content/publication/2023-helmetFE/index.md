@@ -3,7 +3,7 @@ title: "Finite element evaluation of an American football helmet featuring liqui
 authors:
   - Nicholas J. Cecchi
   - Hossein Vahid Alizadeh
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - David B. Camarillo
 date: "2023-06-09T00:00:00Z"
 doi: "10.3389/fbioe.2023.1160387"

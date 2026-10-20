@@ -1,7 +1,7 @@
 ---
 title: "Response of Woodpecker’s Head during Pecking Process Simulated by Material Point Method"
 authors:
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - Xinming Qiu
   - Xiong Zhang
   - T. X. Yu

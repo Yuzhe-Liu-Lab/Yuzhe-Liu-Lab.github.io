@@ -2,7 +2,7 @@
 title: "A wearable hydraulic shock absorber with efficient energy dissipation"
 authors:
   - Nicholas J. Cecchi
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - Ramanand V. Vegesna
   - Xianghao Zhan
   - Weiguang Yang

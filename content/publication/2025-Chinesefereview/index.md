@@ -1,9 +1,9 @@
 ---
 title: "创伤性脑损伤研究的人类头部有限元模型研究进展"
 authors:
-  - Yihan Zhang(张艺涵)
-  - Yuzhe Liu(刘雨喆)
-  - Yang Wang(王阳)
+  - 张艺涵
+  - 刘雨喆
+  - 王阳
   - 展祥皓
   - 周舟
   - 王丽珍

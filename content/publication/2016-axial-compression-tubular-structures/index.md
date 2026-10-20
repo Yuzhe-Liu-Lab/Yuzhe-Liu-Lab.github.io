@@ -5,7 +5,7 @@ authors:
   - "Mingle Pan"
   - "Xiaohuan Yu"
   - "Wei Wang"
-  - "Yuzhe Liu(刘雨喆)"
+  - 刘雨喆
 date: "2016-10-01T00:00:00Z"
 doi: "10.6052/1000-0879-16-243"
 links:

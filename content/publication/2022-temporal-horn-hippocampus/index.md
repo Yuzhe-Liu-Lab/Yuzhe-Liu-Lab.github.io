@@ -6,7 +6,7 @@ authors:
   - "August G. Domel"
   - "Emily L. Dennis"
   - "Marios Georgiadis"
-  - "Yuzhe Liu(刘雨喆)"
+  - 刘雨喆
   - "Samuel J. Raymond"
   - "Gerald Grant"
   - "Svein Kleiven"

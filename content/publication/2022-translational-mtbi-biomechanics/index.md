@@ -3,7 +3,7 @@ title: "Translational models of mild traumatic brain injury tissue biomechanics"
 authors:
   - "Xianghao Zhan"
   - "Anna Oeur"
-  - "Yuzhe Liu(刘雨喆)"
+  - 刘雨喆
   - "Michael M. Zeineh"
   - "Gerald A. Grant"
   - "Susan S. Margulies"

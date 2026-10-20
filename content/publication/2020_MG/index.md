@@ -1,7 +1,7 @@
 ---
 title: "Validation and Comparison of Instrumented Mouthguards for Measuring Head Kinematics and Assessing Brain Deformation in Football Impacts"
 authors:
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - August G. Domel
   - Seyed Abdolmajid Yousefsani
   - Jovana Kondic

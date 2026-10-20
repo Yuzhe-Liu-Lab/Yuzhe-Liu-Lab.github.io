@@ -3,7 +3,7 @@ title: "Predictive Factors of Kinematics in Traumatic Brain Injury from Head Imp
 authors:
   - Xianghao Zhan
   - Yiheng Li
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - August G. Domel
   - Hossein Vahid Alizadeh
   - Zhou Zhou

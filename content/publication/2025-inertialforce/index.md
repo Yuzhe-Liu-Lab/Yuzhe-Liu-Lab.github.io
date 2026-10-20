@@ -2,7 +2,7 @@
 title: "Local and Global Effects of Inertial Force Components Producing Brain Strain During Head Impacts"
 authors:
   - Xianghao Zhan
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - August G. Domel
   - Michael Fanton
   - Zhou Zhou

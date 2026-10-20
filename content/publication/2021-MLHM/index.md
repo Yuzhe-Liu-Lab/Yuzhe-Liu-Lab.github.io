@@ -2,7 +2,7 @@
 title: "Rapid Estimation of Entire Brain Strain Using Deep Learning Models"
 authors:
   - Xianghao Zhan
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - Samuel J. Raymond
   - Hossein Vahid Alizadeh
   - August G. Domel

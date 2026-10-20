@@ -4,7 +4,7 @@ authors:
   - "August G. Domel"
   - "Samuel J. Raymond"
   - "Chiara Giordano"
-  - "Yuzhe Liu(刘雨喆)"
+  - 刘雨喆
   - "Seyed Abdolmajid Yousefsani"
   - "Michael Fanton"
   - "Nicholas J. Cecchi"

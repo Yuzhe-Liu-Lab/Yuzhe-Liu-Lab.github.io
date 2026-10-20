@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Xiaoyv Du(杜箫宇)
+title: Xiaoyu Du(杜箫宇)
 
 # Full name (for SEO)
-first_name: Xiaoyv
+first_name: Xiaoyu
 last_name: Du
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Class of 2023
-entry_year: 2023
+role: PhD student, Class of 2027
+entry_year: 2027
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate Students | 本科生
+  - PhD Students | 博士生
 ---
 
 <style>
@@ -95,22 +95,21 @@ user_groups:
 </style>
 
 <div class="tabs">
-  <button class="tablink" onclick="openTab('cn')">CN</button>
   <button class="tablink" onclick="openTab('en')">EN</button>
+  <button class="tablink" onclick="openTab('cn')">CN</button>
 </div>
 
 
 <!-- 中文版本 -->
-<div id="cn" class="tabcontent" style="display:block;">
+<div id="cn" class="tabcontent" style="display:none;">
 
   <p>
-    吳恩達是斯坦福大学人工智能实验室的教授。他的研究兴趣包括分布式机器人、移动计算和可编程物质。
-    他领导的机器人神经生物学团队开发自重构机器人、自组织系统和移动传感网络。
+    杜箫宇，将作为2027级博士生在课题组继续研究，现主修生物医学工程。虽然接触编程的时间较短，但对建模、仿真以及利用计算机方法理解现实世界现象有浓厚兴趣。课余喜欢排球、橄榄球、游泳和乒乓球。
   </p>
 
   <h3>兴趣</h3>
   <ul>
-    <li>计算机科学</li>
+    <li>计算科学</li>
     <li>运动</li>
   </ul>
 
@@ -126,9 +125,9 @@ user_groups:
 
 
 <!-- 英文版本 -->
-<div id="en" class="tabcontent" style="display:none;">
+<div id="en" class="tabcontent" style="display:block;">
   <p>
-    My major is Biomedical Engineering. Although I'm relatively new to coding, I have a strong interest in modeling, simulation, and computer-based approaches to understand real-world phenomena. In my spare time, I enjoy playing volleyball, rugby, swimming, and table tennis.
+    Xiaoyu Du will continue his research in the lab as a PhD student in the Class of 2027 and is currently majoring in Biomedical Engineering. Although relatively new to coding, he has a strong interest in modeling, simulation, and computer-based approaches to understanding real-world phenomena. In his spare time, he enjoys playing volleyball, rugby, swimming, and table tennis.
   </p>
 
   <h3>Interests</h3>

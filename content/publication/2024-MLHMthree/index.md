@@ -3,7 +3,7 @@ title: "Adaptive Machine Learning Head Model Across Different Head Impact Types 
 authors:
   - Xianghao Zhan
   - Jiawei Sun
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - Nicholas J. Cecchi
   - Enora Le Flao
   - Olivier Gevaert

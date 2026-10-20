@@ -1,7 +1,7 @@
 ---
 title: "A theoretical model of the inversion tube over a conical die"
 authors:
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - XinMing Qiu
   - T. X. Yu
 date: "2018-02-03T00:00:00Z"

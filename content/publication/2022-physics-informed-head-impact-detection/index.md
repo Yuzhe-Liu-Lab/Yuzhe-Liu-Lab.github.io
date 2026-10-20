@@ -6,7 +6,7 @@ authors:
   - "Hossein Vahid Alizadeh"
   - "Ashlyn A. Callan"
   - "Eli Rice"
-  - "Yuzhe Liu(刘雨喆)"
+  - 刘雨喆
   - "Zhou Zhou"
   - "Michael Zeineh"
   - "David B. Camarillo"

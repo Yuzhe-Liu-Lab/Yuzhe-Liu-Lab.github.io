@@ -3,7 +3,7 @@ title: "Dynamic Blood-Brain Barrier Regulation in Mild Traumatic Brain Injury"
 authors:
   - "Eoin O'Keeffe"
   - "Eoin Kelly"
-  - "Yuzhe Liu(刘雨喆)"
+  - 刘雨喆
   - "Chiara Giordano"
   - "Eugene Wallace"
   - "Mark Hynes"

@@ -3,7 +3,7 @@ title: "Identifying Factors Associated with Head Impact Kinematics and Brain Str
 authors:
   - Nicholas J. Cecchi
   - August G. Domel
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - Eli Rice
   - Rong Lu
   - Xianghao Zhan

@@ -409,7 +409,7 @@ links:
 ```
 
 4. Verify DOI using official publisher pages, Crossref, PubMed, or the PDF first page. Do not guess.
-5. In lab member names, use `English Name(中文名)`.
+5. Display lab member names as `English Name(中文名)` in each profile's `title`. In a publication's `authors` list, reference an existing member by the exact author folder name (for example, `王阳` for `content/authors/王阳/_index.md`). Hugo displays the bilingual profile title and links to the actual biography. Using the bilingual display name as the taxonomy key creates a separate automatic author archive and can split the member's publication list. Keep external collaborators' published names as-is.
 6. In outside collaborator names, keep the official spelling from the paper.
 7. The body image should appear after the title/authors/buttons area and before Abstract. This is achieved by placing:
 

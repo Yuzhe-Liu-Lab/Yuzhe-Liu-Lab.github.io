@@ -9,7 +9,7 @@ authors:
   - "Eugene Wallace"
   - "Colin P. Doherty"
   - "Matthew Campbell"
-  - "Yuzhe Liu(刘雨喆)"
+  - 刘雨喆
   - "August G. Domel"
 date: "2020-12-01T00:00:00Z"
 doi: "10.1177/0954411920947850"

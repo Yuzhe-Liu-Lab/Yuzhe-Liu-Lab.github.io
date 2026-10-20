@@ -1,7 +1,7 @@
 ---
 title: "Time Window of Head Impact Kinematics Measurement for Calculation of Brain Strain and Strain Rate in American Football"
 authors:
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - August G. Domel
   - Nicholas J. Cecchi
   - Eli Rice

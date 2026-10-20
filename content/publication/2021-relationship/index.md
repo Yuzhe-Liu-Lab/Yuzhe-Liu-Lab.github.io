@@ -3,7 +3,7 @@ title: "The Relationship Between Brain Injury Criteria and Brain Strain Across D
 authors:
   - Xianghao Zhan
   - Yiheng Li
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - August G. Domel
   - Hossein Vahid Alizadeh
   - Samuel J. Raymond

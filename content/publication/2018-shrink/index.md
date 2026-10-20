@@ -1,7 +1,7 @@
 ---
 title: "A theoretical model of the shrinking metal tubes"
 authors:
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - XinMing Qiu
 date: "2018-06-15T00:00:00Z"
 doi: "10.1016/j.ijmecsci.2018.06.019"

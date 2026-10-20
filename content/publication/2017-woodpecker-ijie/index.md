@@ -1,7 +1,7 @@
 ---
 title: "A study of woodpecker's pecking process and the impact response of its brain"
 authors:
-  - Yuzhe Liu(刘雨喆)
+  - 刘雨喆
   - XinMing Qiu
   - HongLei Ma
   - WenWen Fu
