@@ -43,23 +43,27 @@ user_groups:
 </div>
 
 <div id="en" class="tabcontent" style="display:block;">
-<p>Xinyue Zhang will join the lab as a PhD student in the Class of 2027.</p>
+<p>Xinyue Zhang graduated from Beihang University with a bachelor's degree in 2026 and will join the lab as a PhD student in the Class of 2027.</p>
 <h3>Interests</h3>
 <ul>
   <li>Computational Neuroscience</li>
   <li>Connectomics</li>
   <li>Neural Circuit Research in Small-Animal Models</li>
 </ul>
+<h3>Education</h3>
+<p><i class="fas fa-graduation-cap"></i> Bachelor's degree, graduated in 2026<br><span style="color:gray;">Beihang University</span></p>
 </div>
 
 <div id="cn" class="tabcontent" style="display:none;">
-<p>张馨月，将作为2027级博士生加入课题组。</p>
+<p>张馨月，北京航空航天大学2026届本科毕业生，将作为2027级博士生加入课题组。</p>
 <h3>兴趣</h3>
 <ul>
   <li>计算神经科学</li>
   <li>连接组学</li>
   <li>小动物模型神经环路研究</li>
 </ul>
+<h3>教育经历</h3>
+<p><i class="fas fa-graduation-cap"></i> 学士，2026届毕业<br><span style="color:gray;">北京航空航天大学</span></p>
 </div>
 
 <script>

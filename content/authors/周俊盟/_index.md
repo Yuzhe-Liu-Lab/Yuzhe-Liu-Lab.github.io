@@ -43,7 +43,7 @@ user_groups:
 </div>
 
 <div id="en" class="tabcontent" style="display:block;">
-<p>Junmeng Zhou will join the lab as a PhD student in the Class of 2027. He is currently an undergraduate student at Shenyuan Honors College, Beihang University. His research focuses on brain injury in sports.</p>
+<p>Junmeng Zhou graduated from Shenyuan Honors College, Beihang University, with a bachelor's degree in 2026 and will join the lab as a PhD student in the Class of 2027. His research focuses on brain injury in sports.</p>
 <h3>Interests</h3>
 <ul>
   <li>Football</li>
@@ -51,13 +51,13 @@ user_groups:
   <li>Riichi Mahjong</li>
 </ul>
 <h3>Education</h3>
-<p><i class="fas fa-graduation-cap"></i> BSc in Engineering Mechanics, 2023-Present<br><span style="color:gray;">Beihang University</span></p>
+<p><i class="fas fa-graduation-cap"></i> BSc in Engineering Mechanics, graduated in 2026<br><span style="color:gray;">Beihang University</span></p>
 <h3>Contact</h3>
 <p><i class="fas fa-envelope"></i> <a href="mailto:3245529767@qq.com">3245529767@qq.com</a></p>
 </div>
 
 <div id="cn" class="tabcontent" style="display:none;">
-<p>周俊盟，将作为2027级博士生加入课题组，现为北京航空航天大学沈元学院本科生，主要研究运动场景下的脑损伤。</p>
+<p>周俊盟，北京航空航天大学沈元学院2026届本科毕业生，将作为2027级博士生加入课题组，主要研究运动场景下的脑损伤。</p>
 <h3>兴趣</h3>
 <ul>
   <li>足球</li>
@@ -65,7 +65,7 @@ user_groups:
   <li>立直麻将</li>
 </ul>
 <h3>教育经历</h3>
-<p><i class="fas fa-graduation-cap"></i> 学士，工程力学，2023至今<br><span style="color:gray;">北京航空航天大学</span></p>
+<p><i class="fas fa-graduation-cap"></i> 学士，工程力学，2026届毕业<br><span style="color:gray;">北京航空航天大学</span></p>
 <h3>联系方式</h3>
 <p><i class="fas fa-envelope"></i> <a href="mailto:3245529767@qq.com">3245529767@qq.com</a></p>
 </div>
