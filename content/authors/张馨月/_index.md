@@ -8,7 +8,7 @@ entry_year: 2027
 organizations:
   - name: Beihang University
     url: ''
-email: ''
+email: '3104094205@qq.com'
 user_groups:
   - PhD Students | 博士生
 ---
@@ -43,7 +43,7 @@ user_groups:
 </div>
 
 <div id="en" class="tabcontent" style="display:block;">
-<p>Xinyue Zhang graduated from Beihang University with a bachelor's degree in 2026 and will join the lab as a PhD student in the Class of 2027.</p>
+<p>Xinyue Zhang graduated from Beihang University in 2026 with a bachelor's degree in Chemistry and a minor in Energy and Power Engineering. Driven by her interests, she transitioned to a new field of study and currently focuses on modeling and simulation of the mechanics of neural structures. She will join the lab as a PhD student in the Class of 2027.</p>
 <h3>Interests</h3>
 <ul>
   <li>Computational Neuroscience</li>
@@ -51,11 +51,13 @@ user_groups:
   <li>Neural Circuit Research in Small-Animal Models</li>
 </ul>
 <h3>Education</h3>
-<p><i class="fas fa-graduation-cap"></i> Bachelor's degree, graduated in 2026<br><span style="color:gray;">Beihang University</span></p>
+<p><i class="fas fa-graduation-cap"></i> Bachelor's degree in Chemistry, minor in Energy and Power Engineering, graduated in 2026<br><span style="color:gray;">Beihang University</span></p>
+<h3>Contact</h3>
+<p><i class="fas fa-envelope"></i> <a href="mailto:3104094205@qq.com">3104094205@qq.com</a></p>
 </div>
 
 <div id="cn" class="tabcontent" style="display:none;">
-<p>张馨月，北京航空航天大学2026届本科毕业生，将作为2027级博士生加入课题组。</p>
+<p>张馨月，北京航空航天大学2026届本科毕业生，本科主修化学，辅修能源与动力工程。出于兴趣，她转向新的学科领域学习，目前关注神经结构力学方面的建模与仿真，将作为2027级博士生加入课题组。</p>
 <h3>兴趣</h3>
 <ul>
   <li>计算神经科学</li>
@@ -63,7 +65,9 @@ user_groups:
   <li>小动物模型神经环路研究</li>
 </ul>
 <h3>教育经历</h3>
-<p><i class="fas fa-graduation-cap"></i> 学士，2026届毕业<br><span style="color:gray;">北京航空航天大学</span></p>
+<p><i class="fas fa-graduation-cap"></i> 学士，化学，辅修能源与动力工程，2026届毕业<br><span style="color:gray;">北京航空航天大学</span></p>
+<h3>联系方式</h3>
+<p><i class="fas fa-envelope"></i> <a href="mailto:3104094205@qq.com">3104094205@qq.com</a></p>
 </div>
 
 <script>
