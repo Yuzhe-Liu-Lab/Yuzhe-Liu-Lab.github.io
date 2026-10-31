@@ -3,11 +3,6 @@ title: Yangjie Zhou(周扬杰)
 first_name: Yangjie
 last_name: Zhou
 superuser: false
-# Closer head-and-shoulders framing for this full-body source photo.
-avatar_crop:
-  left: 215
-  top: 400
-  size: 750
 role: Class of 2025
 entry_year: 2025
 organizations:
