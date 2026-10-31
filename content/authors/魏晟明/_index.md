@@ -3,6 +3,11 @@ title: Shengming Wei(魏晟明)
 first_name: Shengming
 last_name: Wei
 superuser: false
+# Avatar framing in original-photo pixels; reference: Yuzhe Liu.
+avatar_crop:
+  left: 14.3
+  top: 46.7
+  size: 592.5
 role: Class of 2025
 entry_year: 2025
 organizations:

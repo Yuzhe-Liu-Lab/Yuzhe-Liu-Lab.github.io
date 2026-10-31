@@ -3,6 +3,11 @@ title: Xinyue Zhang(张馨月)
 first_name: Xinyue
 last_name: Zhang
 superuser: false
+# Avatar framing in original-photo pixels; reference: Yuzhe Liu.
+avatar_crop:
+  left: -101.4
+  top: 40.1
+  size: 1397.5
 role: PhD student, Class of 2027
 entry_year: 2027
 organizations:

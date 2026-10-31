@@ -318,6 +318,15 @@ avatar.jpg
 
 Use `avatar.png` only if the existing page already does so.
 
+Keep the original photo intact. Member profiles may define `avatar_crop` with
+`left`, `top`, and `size` in original-photo pixels. The shared
+`layouts/partials/functions/member-avatar.html` creates a square SVG viewport
+for People, profile pages, and publication author cards. Match face size and
+headroom to Yuzhe Liu's unchanged avatar; check both the People grid and profile
+page in the browser. Negative coordinates allow close portraits to have white
+padding. Use `left`/`top`, not YAML keys `x`/`y` (`y` can be parsed as a boolean).
+New members without crop settings retain the theme's centered square default.
+
 ## Publications
 
 Publication pages live under:

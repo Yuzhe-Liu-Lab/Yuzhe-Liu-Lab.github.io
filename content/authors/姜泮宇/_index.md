@@ -8,6 +8,11 @@ last_name: Jiang
 
 # Is this the primary user of the site?
 superuser: false
+# Avatar framing in original-photo pixels; reference: Yuzhe Liu.
+avatar_crop:
+  left: 350.0
+  top: 646.7
+  size: 1690.4
 
 # Role/position
 role: PhD student, Class of 2026

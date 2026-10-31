@@ -8,6 +8,11 @@ last_name: Xu
 
 # Is this the primary user of the site?
 superuser: false
+# Avatar framing in original-photo pixels; reference: Yuzhe Liu.
+avatar_crop:
+  left: -16.7
+  top: 118.6
+  size: 950.7
 
 # Role/position
 role: M. S. student, Class of 2026

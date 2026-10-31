@@ -1,0 +1,21 @@
+{{/* Apply a member's source-pixel framing without changing the original photo.
+     Return the same square dimensions for every avatar size used by the theme. */}}
+{{ $person := .person }}
+{{ $photo := .photo }}
+{{ $size := .size | default 270 }}
+{{ $result := dict }}
+{{ with $person.Params.avatar_crop }}
+  {{ $crop := . }}
+  {{ $display := $photo }}
+  {{ if gt $photo.Width 1600 }}
+    {{ $display = $photo.Resize "1600x" }}
+  {{ end }}
+  {{ $svg := printf `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="%d" height="%d" viewBox="%g %g %g %g"><rect x="%g" y="%g" width="%g" height="%g" fill="white"/><image width="%d" height="%d" xlink:href="data:%s;base64,%s"/></svg>` $size $size (float $crop.left) (float $crop.top) (float $crop.size) (float $crop.size) (float $crop.left) (float $crop.top) (float $crop.size) (float $crop.size) $photo.Width $photo.Height $display.MediaType.Type ($display.Content | base64Encode) }}
+  {{ $path := printf "media/member-avatars/%s-%d.svg" (path.Base $person.File.Dir) $size }}
+  {{ $image := resources.FromString $path $svg | fingerprint }}
+  {{ $result = dict "RelPermalink" $image.RelPermalink "Width" $size "Height" $size }}
+{{ else }}
+  {{ $image := $photo.Fill (printf "%dx%d Center" $size $size) }}
+  {{ $result = dict "RelPermalink" $image.RelPermalink "Width" $size "Height" $size }}
+{{ end }}
+{{ return $result }}

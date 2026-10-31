@@ -3,6 +3,11 @@ title: Yangjie Zhou(周扬杰)
 first_name: Yangjie
 last_name: Zhou
 superuser: false
+# Avatar framing in original-photo pixels; reference: Yuzhe Liu.
+avatar_crop:
+  left: 277
+  top: 440
+  size: 623
 role: Class of 2025
 entry_year: 2025
 organizations:

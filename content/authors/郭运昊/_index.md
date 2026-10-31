@@ -3,6 +3,11 @@ title: Yunhao Guo(郭运昊)
 first_name: Yunhao
 last_name: Guo
 superuser: false
+# Avatar framing in original-photo pixels; reference: Yuzhe Liu.
+avatar_crop:
+  left: 130.4
+  top: 197.2
+  size: 610.1
 role: Class of 2025
 entry_year: 2025
 organizations:
