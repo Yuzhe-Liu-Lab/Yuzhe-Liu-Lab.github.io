@@ -8,11 +8,6 @@ last_name: Wang
 
 # Is this the primary user of the site?
 superuser: false
-# Avatar framing in original-photo pixels; reference: Yuzhe Liu.
-avatar_crop:
-  left: -59.0
-  top: 2.1
-  size: 456.5
 
 # Role/position
 role: PhD student, Class of 2024

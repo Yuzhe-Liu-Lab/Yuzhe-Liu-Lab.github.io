@@ -8,11 +8,6 @@ last_name: Liang
 
 # Is this the primary user of the site?
 superuser: false
-# Avatar framing in original-photo pixels; reference: Yuzhe Liu.
-avatar_crop:
-  left: 111.1
-  top: 24.9
-  size: 521.7
 
 # Role/position
 role: Class of 2024

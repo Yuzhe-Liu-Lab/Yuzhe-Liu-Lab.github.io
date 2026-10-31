@@ -8,11 +8,6 @@ last_name: Zheng
 
 # Is this the primary user of the site?
 superuser: false
-# Avatar framing in original-photo pixels; reference: Yuzhe Liu.
-avatar_crop:
-  left: -45.4
-  top: -47.0
-  size: 1135.5
 
 # Role/position
 role: B.S. Graduate, Class of 2020

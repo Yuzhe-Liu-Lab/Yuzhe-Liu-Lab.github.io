@@ -8,11 +8,6 @@ last_name: Liu
 
 # Is this the primary user of the site?
 superuser: false
-# Avatar framing in original-photo pixels; reference: Yuzhe Liu.
-avatar_crop:
-  left: -1.0
-  top: 41.4
-  size: 577.4
 
 # Role/position
 role: Class of 2024

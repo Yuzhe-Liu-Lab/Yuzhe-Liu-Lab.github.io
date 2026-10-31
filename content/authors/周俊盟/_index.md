@@ -3,11 +3,6 @@ title: Junmeng Zhou(周俊盟)
 first_name: Junmeng
 last_name: Zhou
 superuser: false
-# Avatar framing in original-photo pixels; reference: Yuzhe Liu.
-avatar_crop:
-  left: -441.9
-  top: -127.9
-  size: 2064.5
 role: PhD student, Class of 2027
 entry_year: 2027
 organizations:

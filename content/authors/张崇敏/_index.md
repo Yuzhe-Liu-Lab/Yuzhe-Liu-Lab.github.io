@@ -8,11 +8,6 @@ last_name: Zhang
 
 # Is this the primary user of the site?
 superuser: false
-# Avatar framing in original-photo pixels; reference: Yuzhe Liu.
-avatar_crop:
-  left: 353.3
-  top: 381.9
-  size: 752.8
 
 # Role/position
 role: M.S. student, Class of 2025

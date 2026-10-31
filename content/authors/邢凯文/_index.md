@@ -8,11 +8,6 @@ last_name: Xing
 
 # Is this the primary user of the site?
 superuser: false
-# Avatar framing in original-photo pixels; reference: Yuzhe Liu.
-avatar_crop:
-  left: -4.6
-  top: 45.7
-  size: 365.2
 
 # Role/position
 role: B.S. Graduate, Class of 2020

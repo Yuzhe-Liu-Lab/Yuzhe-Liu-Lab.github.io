@@ -8,11 +8,6 @@ last_name: Wu
 
 # Is this the primary user of the site?
 superuser: false
-# Avatar framing in original-photo pixels; reference: Yuzhe Liu.
-avatar_crop:
-  left: 146.4
-  top: 265.6
-  size: 957.7
 
 # Role/position
 role: Class of 2023

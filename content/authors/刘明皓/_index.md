@@ -3,11 +3,6 @@ title: Minghao Liu(刘明皓)
 first_name: Minghao
 last_name: Liu
 superuser: false
-# Avatar framing in original-photo pixels; reference: Yuzhe Liu.
-avatar_crop:
-  left: 334.5
-  top: -6.2
-  size: 1236.7
 role: Class of 2025
 entry_year: 2025
 organizations:
