@@ -6,10 +6,10 @@
 {{ $result := dict }}
 {{ with $person.Params.avatar_crop }}
   {{ $crop := . }}
-  {{ $display := $photo }}
-  {{ if gt $photo.Width 1600 }}
-    {{ $display = $photo.Resize "1600x" }}
-  {{ end }}
+  {{/* Retain enough pixels for a 2x profile avatar without embedding full photos. */}}
+  {{ $width := int (math.Ceil (mul (div (float $photo.Width) (float $crop.size)) 540.0)) }}
+  {{ $width = int (math.Min (float $photo.Width) (math.Min 1600.0 (float $width))) }}
+  {{ $display := $photo.Resize (printf "%dx q85" $width) }}
   {{ $svg := printf `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="%d" height="%d" viewBox="%g %g %g %g"><rect x="%g" y="%g" width="%g" height="%g" fill="white"/><image width="%d" height="%d" xlink:href="data:%s;base64,%s"/></svg>` $size $size (float $crop.left) (float $crop.top) (float $crop.size) (float $crop.size) (float $crop.left) (float $crop.top) (float $crop.size) (float $crop.size) $photo.Width $photo.Height $display.MediaType.Type ($display.Content | base64Encode) }}
   {{ $path := printf "media/member-avatars/%s-%d.svg" (path.Base $person.File.Dir) $size }}
   {{ $image := resources.FromString $path $svg | fingerprint }}
